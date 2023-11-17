@@ -18,7 +18,7 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
+  // GitHub pages deployment con fig.
   // If you aren't using GitHub pages, you don't need these.
   //organizationName: 'dogwood-alliance', // Usually your GitHub org/user name.
   //projectName: 'my-website', // Usually your repo name.
