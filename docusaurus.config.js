@@ -13,16 +13,16 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://dogwood-alliance.github.io',
+  url: 'https://my-website-livid-alpha.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/my-website/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'dogwood-alliance', // Usually your GitHub org/user name.
-  projectName: 'my-website', // Usually your repo name.
-  deploymentBranch: 'main',
+  //organizationName: 'dogwood-alliance', // Usually your GitHub org/user name.
+  //projectName: 'my-website', // Usually your repo name.
+  //deploymentBranch: 'main',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
